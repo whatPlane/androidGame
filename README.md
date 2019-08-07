@@ -4,3 +4,6 @@
 test david
 
 first push
+
+
+i am doing something , chose stash or create a new branch?
